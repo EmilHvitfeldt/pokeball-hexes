@@ -144,7 +144,7 @@ hexwall <- function(path, sticker_row_size = 4, sticker_width = 500, remove_smal
   }
 }
 
-hexwall("PNG")
+hexwall("PNG") 
 ```
 
 All the hex logos as either [PNG](PNG/) or [SVG](SVG/).
